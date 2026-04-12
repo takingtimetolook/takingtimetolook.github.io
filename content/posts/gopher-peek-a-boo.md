@@ -2,6 +2,7 @@
 title: "Gopher Peek-a-boo"
 tags: [hike, wildflowers, gopher, birds]
 featured_image: ""
+date: 2026-04-11
 comment : false
 ---
 
