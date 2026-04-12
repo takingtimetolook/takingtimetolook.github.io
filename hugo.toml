@@ -1,11 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Taking time to see'
-theme = "diary"
+theme = "journal"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
-[author]
-  name = "takingtimetolook"
-  homepage = "https://takingtimetolook.github.io/"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
