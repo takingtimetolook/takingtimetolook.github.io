@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Taking time to see'
+title = 'Taking time to look'
 theme = "journal"
 cleanDestinationDir = true
 [caches]
