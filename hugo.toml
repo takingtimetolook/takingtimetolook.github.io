@@ -5,7 +5,9 @@ theme = "journal"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-
+[author]
+  name = "takingtimetolook"
+  homepage = "https://takingtimetolook.github.io/"
 [menu]
   [[menu.main]]
     identifier = "about"
