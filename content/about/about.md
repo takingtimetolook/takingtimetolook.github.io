@@ -1,5 +1,5 @@
 ---
-date: 2026-03-08
+date: 2026-03-08T10:58:08-04:00
 comment : false
 ---
 This is my Nature journal where I document things in nature I take time to look.
