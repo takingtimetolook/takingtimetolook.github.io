@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Taking time to see'
 theme = "journal"
+cleanDestinationDir = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
