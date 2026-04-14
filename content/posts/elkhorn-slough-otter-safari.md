@@ -16,4 +16,3 @@ Watching the mom and baby otter was the highlight of this trip.
 {{< instagram DXFv4GLD5iU >}}
 {{< instagram DXFxyGMDxLK >}}
 {{< instagram DXFx-cSj1Ah >}}
-{{< instagram DXFyQRbj0tk >}}
