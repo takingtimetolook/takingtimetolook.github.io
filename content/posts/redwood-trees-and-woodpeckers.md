@@ -6,7 +6,7 @@ featured_image: ""
 comment : false
 ---
 
-This was at the Henry Cowell Redwoods State Park. The highlights of this trip were the magnificent trees and the woodpeckers
+This was at the Henry Cowell Redwoods State Park. The highlights of this trip were the magnificent trees and the woodpeckers.
 
 {{< instagram DXFyQRbj0tk >}}
 {{< instagram DXFyo89D-6b >}}
