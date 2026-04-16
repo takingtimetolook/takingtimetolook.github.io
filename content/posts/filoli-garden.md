@@ -1,7 +1,7 @@
 ---
 title: "Filoli Garden"
 date: 2017-04-11T10:58:08-04:00
-tags: [trees, birds, birding, deer]
+tags: [trees, birds, birding, deer, baby squirrel]
 featured_image: ""
 comment : false
 ---
