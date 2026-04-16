@@ -8,15 +8,30 @@ comment : false
 
 This was at Filoli Gardens at Woodside, California. The highlights of this trip were the water lilies, the Turkey, Baby Squirrel, The California Glory tree, Acorn Woodpeckers and the herd of Deer.
 
+Flowers 
+{{< instagram DXLmWsiFKtQ >}}
+{{< instagram DXLmLublPOc >}}
 {{< instagram DXLc-qNFAdK >}}
 {{< instagram DXLcy0ulHlB >}}
-{{< instagram DXLmLublPOc >}}
 {{< instagram DXLaJ_UlHo_ >}}
-{{< instagram DXLcmNWlESh >}}
-{{< instagram DXLa_38lDBJ >}}
+{{< instagram DXLcZMslNtX >}}
 
+Fungi
 {{< instagram DXLduXyFLaC >}}
+{{< instagram DXLcKmEFE7b >}}
+
+Birds
+{{< instagram DXLnWfllBsh >}}
+{{< instagram DXLn4hOFE58 >}}
+{{< instagram DXLapywjCGI >}}
 {{< instagram DXLdfBwFI_X >}}
+{{< instagram DXLnlFHFIIQ >}}
 {{< instagram DXLaYamlGXJ >}}
-{{< instagram DXLmWsiFKtQ >}}
-{{< instagram DXLm0m9lEDX >}}
+
+Trees
+{{< instagram DXLa_38lDBJ >}}
+{{< instagram DXLcmNWlESh >}}
+
+
+Baby Squirrel
+{{< instagram DXLbr4HjD81 >}}
